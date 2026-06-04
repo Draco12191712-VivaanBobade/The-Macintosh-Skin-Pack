@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Draco12191712"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.54"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "Macintosh Skin Pack",
+		"description": "Adds Apple Inc.’s iconic Macintosh computer to Minecraft Bedrock as a skin. By Draco12191712, V0.0.1",
+		"min_engine_version": [
+			1,
+			21,
+			120
+		],
+		"uuid": "bfc41d49-d949-4f22-87b5-5528b9d82217",
+		"version": [
+			1,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "skin_pack",
+			"uuid": "2fcd6bd1-f872-4855-8b16-74c280c79b4f",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

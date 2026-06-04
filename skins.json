@@ -1,0 +1,13 @@
+{
+	"geometry": "skinpacks/skins.json",
+	"skins": [
+		{
+			"localization_name": "macintosh_gray",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "macintosh_gray.png",
+			"type": "free"
+		}
+	],
+	"serialize_name": "macintoshskins",
+	"localization_name": "macintoshskins"
+}
