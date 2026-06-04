@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# VS Code
+.vscode/
+.history/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Build / Export Artifacts
+dist/
+build/
+release/
+exports/
+out/
+
+# Minecraft Packaging Outputs
+*.mcpack
+*.mcaddon
+*.zip
+
+# Keep Source Assets
+# DO NOT IGNORE:
+# *.png
+# manifest.json
+# skins.json
+# texts/
+# README.md
+# LICENSE
