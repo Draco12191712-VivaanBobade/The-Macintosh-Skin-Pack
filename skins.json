@@ -1,13 +1,61 @@
 {
-	"geometry": "skinpacks/skins.json",
-	"skins": [
-		{
-			"localization_name": "macintosh_gray",
-			"geometry": "geometry.humanoid.custom",
-			"texture": "macintosh_gray.png",
-			"type": "free"
-		}
-	],
-	"serialize_name": "macintoshskins",
-	"localization_name": "macintoshskins"
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+    {
+      "localization_name": "macintoshskins",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "draco.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "byte",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "byte.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "elyse",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "elyse.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "flint",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "flint.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "hex",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "hex.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "macro",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "macro.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "sierra",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sierra.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "vance",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "vance.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "vesper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "vesper.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "macintoshskins",
+  "localization_name": "macintoshskins"
 }
