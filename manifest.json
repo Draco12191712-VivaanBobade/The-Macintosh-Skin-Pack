@@ -20,5 +20,13 @@
       "uuid": "2fcd6bd1-f872-4855-8b16-74c280c79b4f",
       "version": [1, 1, 0]
     }
+  ],
+  "dependencies": [
+    {
+      "name": "Skin Pack Equip Button UI Fix",
+      "description": "A fix for the missing equip button for skins for versions 1.18.30 and lower.",
+      "uuid": "7c671d8d-9704-498c-b6ef-18b0863ff434",
+      "version": [1, 0, 0]
+    }
   ]
 }
