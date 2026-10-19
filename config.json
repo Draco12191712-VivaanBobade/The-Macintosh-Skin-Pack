@@ -1,0 +1,43 @@
+{
+	"type": "minecraftBedrock",
+	"name": "The Macintosh Skin Pack",
+	"namespace": "msp",
+	"authors": [
+		"Draco12191712 (Vivaan Bobade)"
+	],
+	"targetVersion": "1.26.0",
+	"description": "Adds Apple's Iconic Macintosh Computer in the form of a skin to Minecraft: Bedrock Edition! v1.2.0",
+	"experimentalGameplay": {
+		"upcomingCreatorFeatures": true,
+		"experimentalCreatorCameraFeatures": true,
+		"enableGameTestFramework": true,
+		"renderDragonFeatures": true,
+		"educationEdition": false
+	},
+	"bdsProject": false,
+	"packs": {
+		"skinPack": "./SP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "The Macintosh Skin Pack"
+				}
+			]
+		]
+	}
+}
