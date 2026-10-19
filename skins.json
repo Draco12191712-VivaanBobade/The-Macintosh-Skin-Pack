@@ -38,6 +38,12 @@
       "type": "free"
     },
     {
+      "localization_name": "blaise",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "blaise.png",
+      "type": "free"
+    },
+    {
       "localization_name": "sierra",
       "geometry": "geometry.humanoid.custom",
       "texture": "sierra.png",

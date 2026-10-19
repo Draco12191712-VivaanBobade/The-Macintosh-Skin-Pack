@@ -1,6 +1,6 @@
 ## Pack Metadata
-pack.name=Macintosh Skin Pack v1.1.0
-pack.description=Adds Apple Inc.’s iconic Macintosh computer to Minecraft Bedrock as a skin. By Draco12191712, V1.1.0
+pack.name=Macintosh Skin Pack v1.2.0
+pack.description=Adds Apple Inc.’s iconic Macintosh computer to Minecraft Bedrock as a skin. By Draco12191712, V1.2.0
 
 ## Skin Pack Name
 skinpack.macintoshskins=Macintosh Skin Pack
@@ -11,6 +11,7 @@ skin.macintoshskins.byte=Byte
 skin.macintoshskins.elyse=Elyse
 skin.macintoshskins.flint=Flint
 skin.macintoshskins.macro=Macro
+skin.macintoshskins.blaise=Blaise
 skin.macintoshskins.sierra=Sierra
 skin.macintoshskins.vance=Vance
 skin.macintoshskins.vesper=Vesper
